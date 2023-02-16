@@ -1,0 +1,6 @@
+aws 凭证
+[default]
+aws_access_key_id = AKIASP2TPHJSZFGZSPPM
+aws_secret_access_key = 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
+output = json
+region = us-east-2
